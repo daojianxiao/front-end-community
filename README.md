@@ -1,7 +1,7 @@
 # 前端共同学习小组
 ## 愿景
 让团队成员
-* 成为自我驱动型人才。
+* 成为自我驱动型人才。假以时日，自然会成为一个优秀的前端开发。
 * 产出一些高质量的东西（文章，翻译，开源项目等）。
 
 ## 小组规则
@@ -13,7 +13,7 @@
 * 不要灌水。
 
 ## 管理员
-[Joel](detail/member.md#Joel)，[烈风裘](detail/member.md#烈风裘)
+[Joel](detail/member.md#Joel)，[烈风裘](detail/member.md#烈风裘)。
 
 ## 成员
 [Alkaidx](detail/member.md#Alkaidx)，[姐百纳](detail/member.md#姐百纳)，[姚冰](detail/member.md#姚冰)，[溜溜球](detail/member.md#溜溜球)，[大宝](detail/member.md#大宝)，[max](detail/member.md#max)，[joanna](detail/member.md#joanna)，[ForDreams](detail/member.md#ForDreams)。
@@ -23,7 +23,7 @@
 1. [新建 issue](https://github.com/iamjoel/front-end-community/issues/new)，并打上`help wanted`的标签(Label)。问题的描述要清晰，完整：通过问题的描述可以复现该问题。
 
 ## 如何做贡献
-* 提意见，在[这里](https://github.com/iamjoel/front-end-community/issues/2) 留言。
+* 提意见，在[这里](https://github.com/iamjoel/front-end-community/issues/2)留言。
 * 优秀文章推荐，[新建 issue](https://github.com/iamjoel/front-end-community/issues/new)，并打上`文章推荐`的标签(Label)。
 * 想完善优化项目的内容，Pull Request。
 
