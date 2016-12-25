@@ -1,6 +1,5 @@
 ## CSS
-### 核心
-* 常见选择器用法 [目标](css/selector.md) 学习
+* 常见选择器用法 [学习](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started/Selectors) [测试](css/selector.md)
 * 样式的继承
 * 样式的层叠
 * 样式的优先级
@@ -15,9 +14,4 @@
 * 综合
   * 浏览器默认样式与重置样式表
 * CSS 组织
-  * BEM 命名法 [目标](css/bem.md)
-
-### 需了解
-* 更多选择器
-* 渐变
-* 滤镜
+  * BEM 命名法 [测试](css/bem.md)

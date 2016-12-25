@@ -1,42 +1,31 @@
-# 前端共同学习社区
+# 前端共同学习小组
 ## 愿景
 让团队成员
-* 有不错的前端技术。
 * 成为自我驱动型人才。
 * 产出一些高质量的东西（文章，翻译，开源项目等）。
 
-## 社区规则
-核心规则就是：不要浪费大家的时间。以此，衍生出如下规则：
+## 小组规则
+核心规则就是：不要浪费大家的时间。比如：
 * 拒绝伸手党。问题前，先自己去网上找答案，找不到再问。
 * 按照提问规范提问。
 * 发红包的数量要和群的人数一样多。以此避免抢红包的时间。
 * 发言主题只和某个人有关系，请单聊。
 * 不要灌水。
 
-## 社区成员需要做的
-* [自我介绍](detail/member.md)
-* 整理自己的前端技能树。
-* 在规定的时间内完成练习题。Review 在一个组的成员的代码。
-* 定期在群中分享自己的学习总结文章。
+## 管理员
+[Joel](detail/member.md#Joel)，[烈风裘](detail/member.md#烈风裘)
 
-## 社区管理者需要做的
-* [自我介绍模板](template/intro-self.md)
-* [前端技能树完整版](template/knowledge-tree) 完善中
-* 根据成员的技能树，将成员进行两两分组。分组原则：能力强+能力弱；男+女。
-* 找一些优秀的练习题。
-* 定期发出练习题。
-* Review 成员做的代码。
-* 丰富社区资源。引导成员丰富资源。
-* 让社区向好的方向发展：社区的奖励，惩罚措施的制定。
+## 成员
+[Alkaidx](detail/member.md#Alkaidx)，[姐百纳](detail/member.md#姐百纳)，[姚冰](detail/member.md#姚冰)，[溜溜球](detail/member.md#溜溜球)，[大宝](detail/member.md#大宝)，[max](detail/member.md#max)，[joanna](detail/member.md#joanna)，[ForDreams](detail/member.md#ForDreams)。
 
-## 社区资源
-* 技巧。学习技巧，提问技巧，沟通技巧等。
-* 网站导航。
-* 文章收藏。文章需要做整理归类。
-* 书籍推荐。
+## 提问
+1. 确定自己去网上找过答案，并找不到。
+1. [新建 issue](https://github.com/iamjoel/front-end-community/issues/new)，并打上`help wanted`的标签(Label)。问题的描述要清晰，完整：通过问题的描述可以复现该问题。
 
 ## 如何做贡献
-Pull Request。
+* 提意见，在[这里](https://github.com/iamjoel/front-end-community/issues/2) 留言。
+* 优秀文章推荐，[新建 issue](https://github.com/iamjoel/front-end-community/issues/new)，并打上`文章推荐`的标签(Label)。
+* 想完善优化项目的内容，Pull Request。
 
 
 
