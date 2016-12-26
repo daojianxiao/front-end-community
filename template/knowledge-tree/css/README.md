@@ -1,7 +1,7 @@
 ## CSS
 * 哪些地方可以写样式
-* 一条的样式的构成 [测试](css/basic/test.md)
-* 常见选择器用法 [学习](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started/Selectors) [测试](css/selector/test.md)
+* 一条的样式的构成 [测试](basic/test.md)
+* 常见选择器用法 [学习](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started/Selectors) [测试](selector/test.md)
 * 到底哪条样式会生效
   * 浏览器的默认样式
   * 选择器权重的计算
@@ -27,4 +27,4 @@
   * 动画
 * 常见浏览器兼容性问题
 * 代码组织
-  * BEM 命名法 [测试](css/bem/test.md)
+  * BEM 命名法 [测试](bem/test.md)
