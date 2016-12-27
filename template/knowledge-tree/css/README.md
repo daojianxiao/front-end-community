@@ -1,5 +1,5 @@
 ## CSS 核心技能点
-* 哪些地方可以写样式 [测试](where/test.md)
+* 样式如何引入 [测试](where/test.md)
 * 一条的样式的构成 [测试](basic/test.md)
 * 常见选择器用法 [学习](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started/Selectors) [测试](selector/test.md)
 * 到底哪条样式会生效
