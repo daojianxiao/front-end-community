@@ -109,7 +109,7 @@
 缺点：严重拖延症  
 个人爱好： 打篮球、看足球比赛，其它文体活动  
 随便说点什么： 搬砖的蝼蚁能不能稳一点...  
-社交： [简书](http://www.jianshu.com/users/EhUmA3/latest_articles)
+社交： [简书](http://www.jianshu.com/u/7233332cb959)
 
 ## <a name="Joel">微信号：joel**7</a>
 昵称： Joel，九彩拼盘  
