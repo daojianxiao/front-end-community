@@ -13,10 +13,10 @@
 * 不要灌水。
 
 ## 管理员
-[Joel](detail/member.md#Joel)，[烈风裘](detail/member.md#烈风裘)。
+[Joel](detail/member.md#Joel)，[烈风裘](detail/member.md#烈风裘)，[Alkaidx](detail/member.md#Alkaidx)。
 
 ## 成员
-[Alkaidx](detail/member.md#Alkaidx)，[姐百纳](detail/member.md#姐百纳)，[姚冰](detail/member.md#姚冰)，[溜溜球](detail/member.md#溜溜球)，[大宝](detail/member.md#大宝)，[max](detail/member.md#max)，[joanna](detail/member.md#joanna)，[ForDreams](detail/member.md#ForDreams)。
+[姐百纳](detail/member.md#姐百纳)，[姚冰](detail/member.md#姚冰)，[溜溜球](detail/member.md#溜溜球)，[大宝](detail/member.md#大宝)，[max](detail/member.md#max)，[joanna](detail/member.md#joanna)，[ForDreams](detail/member.md#ForDreams)，[夏](detail/member.md#xia)。
 
 ## 提问
 1. 确定自己去网上找过答案，并找不到。
