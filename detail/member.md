@@ -211,7 +211,7 @@
 缺点：不够积极，自控力不强，没有太大的野心  
 个人爱好： 电子，天文，有趣的事物  
 随便说点什么： 希望能和大家共同进步，互相都有所收获  
-社交： [简书](http://www.jianshu.com/users/9b19ff8e4a86/latest_articles)
+社交： [简书](http://www.jianshu.com/users/9b19ff8e4a86/latest_articles) [Github](https://github.com/alkaidx)
 
 ## <a name="face">微信号：face**14</a>
 昵称： 小虫巨蟹  
