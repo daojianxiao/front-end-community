@@ -224,3 +224,15 @@
 个人爱好： 打篮球、看足球比赛，其它文体活动  
 随便说点什么： 搬砖的蝼蚁能不能稳一点...  
 社交： [简书](http://www.jianshu.com/u/7233332cb959) [Github](https://github.com/zengwenfu)
+
+## <a name="随风飘散">微信号：ding**003</a>
+昵称：随风飘散、轩辕无枫 
+职业：前端工程师 
+所在城市：杭州 
+开始学前端时间：2016年3月 
+公司介绍：杭州数梦工场 
+优点：热爱学习
+缺点： 比较容易忧郁、为人比较闷、情商非常低
+个人爱好：打dota、听歌、游泳、骑车
+随便说点什么： 
+社交： [简书](http://www.jianshu.com/users/c12146656220/timeline) [Github](https://github.com/leishen1990)
