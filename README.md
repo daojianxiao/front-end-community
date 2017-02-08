@@ -1,37 +1,13 @@
 # 前端共同学习小组：大鱼🐋
-## 愿景
-让团队成员
-* 成为自我驱动型人才。假以时日，自然会成为一个优秀的前端开发。
-* 产出一些高质量的东西（文章，翻译，开源项目等）。
+**前端共同成长小组是一个前端学习社群。** 具体信息如下。
+* [小组介绍](http://www.jianshu.com/p/6075ea563992)。
+* 入群后
+  * 参照[自我介绍模板](http://www.jianshu.com/p/8ffd1e76f34f) 做自我介绍。并发在群里。
+  * 请遵守 [小组规则](http://www.jianshu.com/p/dab45db7d5ac)。
+* 这里有些 [学习方法](http://www.jianshu.com/p/74ea91254217)。希望对你有帮助。
+* 遇到问题，提问要 [注意这些](http://www.jianshu.com/p/19da64cc06ab)。
+* 参照 [学习流程](http://www.jianshu.com/p/575d730718dd) 进行学习。
+* 欢迎你提出宝贵的意见和建议，提在 [这里](http://www.jianshu.com/p/acc5d62e9bee) 。
+* 如果你想为我们小组的成长一份力，来 [这里](https://github.com/iamjoel/front-end-community/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) 领任务吧。也欢迎随意打赏~
 
-## 小组规则
-核心规则就是：不要浪费大家的时间。比如：
-* 拒绝伸手党。问题前，先自己去网上找答案，找不到再问。
-* 按照提问规范提问。
-* 发红包的数量要和群的人数一样多。以此避免抢红包的时间。
-* 发言主题只和某个人有关系，请单聊。
-* 不要灌水。
-
-## 管理员
-[Joel](detail/member.md#Joel)，[烈风裘](detail/member.md#烈风裘)，[Alkaidx](detail/member.md#Alkaidx)，[小虫](detail/member.md#face)。
-
-## 成员
-[姐百纳](detail/member.md#姐百纳)，[姚冰](detail/member.md#姚冰)，[溜溜球](detail/member.md#溜溜球)，[大宝](detail/member.md#大宝)，[max](detail/member.md#max)，[joanna](detail/member.md#joanna)，[ForDreams](detail/member.md#ForDreams)，[夏](detail/member.md#xia)，[胡蝶](detail/member.md#胡蝶)，[光](detail/member.md#光)，[阡陌](detail/member.md#阡陌)，[彬彬](detail/member.md#彬彬)，[Thanks_moon](detail/member.md#moon)，[MY.captain](detail/member.md#captain)，[sicily](detail/member.md#sicily)，[随风飘散](detail/member.md#随风飘散)，[freebo](detail/member.md#freebo)，[LJ](detail/member.md#LJ)。
-
-## 提问
-1. 确定自己去网上找过答案，并找不到。
-1. [新建 issue](https://github.com/iamjoel/front-end-community/issues/new)，并打上`help wanted`的标签(Label)。问题的描述要清晰，完整：通过问题的描述可以复现该问题。
-
-## 如何做贡献
-* 提意见，在[这里](https://github.com/iamjoel/front-end-community/issues/2)留言。
-* 优秀文章推荐，[新建 issue](https://github.com/iamjoel/front-end-community/issues/new)，并打上`文章推荐`的标签(Label)。
-* 想完善优化项目的内容，Pull Request。
-
-
-
-
-
-
-
-
-
+ps: 目前成员，点[这里](https://github.com/iamjoel/front-end-community/blob/master/detail/member.md)。
