@@ -1,4 +1,4 @@
-# 前端共同学习小组
+# 前端共同学习小组：大鱼🐋
 ## 愿景
 让团队成员
 * 成为自我驱动型人才。假以时日，自然会成为一个优秀的前端开发。
@@ -13,10 +13,10 @@
 * 不要灌水。
 
 ## 管理员
-[Joel](detail/member.md#Joel)，[烈风裘](detail/member.md#烈风裘)。
+[Joel](detail/member.md#Joel)，[烈风裘](detail/member.md#烈风裘)，[Alkaidx](detail/member.md#Alkaidx)，[小虫](detail/member.md#face)。
 
 ## 成员
-[Alkaidx](detail/member.md#Alkaidx)，[姐百纳](detail/member.md#姐百纳)，[姚冰](detail/member.md#姚冰)，[溜溜球](detail/member.md#溜溜球)，[大宝](detail/member.md#大宝)，[max](detail/member.md#max)，[joanna](detail/member.md#joanna)，[ForDreams](detail/member.md#ForDreams)。
+[姐百纳](detail/member.md#姐百纳)，[姚冰](detail/member.md#姚冰)，[溜溜球](detail/member.md#溜溜球)，[大宝](detail/member.md#大宝)，[max](detail/member.md#max)，[joanna](detail/member.md#joanna)，[ForDreams](detail/member.md#ForDreams)，[夏](detail/member.md#xia)，[胡蝶](detail/member.md#胡蝶)，[光](detail/member.md#光)，[阡陌](detail/member.md#阡陌)，[彬彬](detail/member.md#彬彬)，[Thanks_moon](detail/member.md#moon)，[MY.captain](detail/member.md#captain)，[sicily](detail/member.md#sicily)。
 
 ## 提问
 1. 确定自己去网上找过答案，并找不到。
