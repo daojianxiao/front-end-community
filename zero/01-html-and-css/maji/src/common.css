@@ -1,0 +1,17 @@
+@charset"utf-8";
+body{
+	margin:0px;
+	padding:0px;
+	font-size:12px;
+	font-family:"Î¢ÈíÑÅºÚ",arial;
+	background:#dedede;
+}
+.lt{
+	float:left;
+}
+.rt{
+	float:right;
+}
+.clear{
+	clear:both;
+}
