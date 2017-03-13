@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  <!-- 这边放你写的样式 -->
+  <link rel="stylesheet" href="你的样式路径">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    body{
+      padding: 20px 0;
+      width: 800px;
+      border-left: 1px solid #0f0;
+      border-right: 1px solid #0f0;
+    }
+    h2{
+      font-size: 14px;
+    }
+    .ly{
+      margin-bottom: 20px;
+    }
+    .ly__item{
+      margin-right: 10px;
+      width: 50px;
+      height: 50px;
+      border: 1px solid #f00;
+      background-color: #ff0;
+    }
+    .ly__item:last-child{
+      margin-right: 0;
+    }
+  </style>
+</head>
+<body>
+  <h2>多个元素在一行</h2>
+  <div class="ly">
+    <div class="ly__item"></div>
+    <div class="ly__item"></div>
+    <div class="ly__item"></div>
+  </div>
+  <h2>多个元素水平居中</h2>
+  <div class="ly ly--center">
+    <div class="ly__item"></div>
+    <div class="ly__item"></div>
+    <div class="ly__item"></div>
+  </div>
+  <h2>多个元素两端对齐</h2>
+  <div class="ly ly--justify">
+    <div class="ly__item"></div>
+    <div class="ly__item"></div>
+    <div class="ly__item"></div>
+  </div>
+  <h2>多个元素在一行，某个元素占据剩余部分</h2>
+  <div class="ly">
+    <div class="ly__item"></div>
+    <div class="ly__item"></div>
+    <div class="ly__item ly__item--fill"></div>
+  </div>
+  <h2>多个元素垂直居中</h1>
+  <div class="ly ly--middle" style="height: 300px">
+    <div class="ly__item"></div>
+    <div class="ly__item" style="height: 200px"></div>
+    <div class="ly__item" style="height: 150px"></div>
+  </div>
+</body>
+</html>
