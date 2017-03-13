@@ -1,0 +1,232 @@
+<!doctype  html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>一段文章</title>
+    <!--引入css样式表-->
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+  </head>
+  <body>
+    <!--1、针对h1~h6，空格，文本加粗，链接的应用-->
+    <h1>文章一级标题</h1>
+    <h2>文章二级标题</h2>
+    <h6>文章作者，发表时间</h6>
+    <p>
+      &nbsp;&nbsp;&nbsp;&nbsp;China，现为“中国”和“瓷器”的英文译名。陶瓷最初的称呼是“Chinaware”，此处ware为瓦之译音，意指器皿。<br/>
+      China放在ware之前，可知China初无瓷器一义；后来省略ware，小写其字头，简称瓷器为<b>china,"这里是个粗体字"</b>获得瓷器之义，已经是晚清的事了。学界基本认定其作为瓷器的双关含义远远晚于“China”作为中国的本意，所以China最初的意思就是指中国。
+      <!--定义超链接,默认当前页面打开-->
+      <a href="http://ife.baidu.com">这里有一个链接链接到http://ife.baidu.com</a>
+    </p>
+    <img src="images/00.jpg">
+    <hr/>
+    <!--2、列表-->
+    <h1>另文章一级标题</h1>
+    <h2>文章二级标题</h2>
+    <h6>文章作者，发表时间</h6>
+    <p>学界基本认定其作为瓷器的双关含义远远晚于“China”作为中国的本意，所以China最初的意思就是指中国。
+      <!--定义超链接,从新窗口打开-->
+      <a href="http://ife.baidu.com" target="_blank">这里有一个链接点击打开后新窗口可以链接到http://ife.baidu.com</a>
+    </p>
+    <ul>
+      <li>列表项目一</li>
+      <li>列表项目二</li>
+      <li>列表项目三</li>
+    </ul>
+    <hr/>
+    <!--3、图片-->
+    <h1>图片</h1>
+    <dl>
+      <dt>好看的图片</dt>
+      <dd>
+        <img src="images/00.jpg">
+      </dd>
+    </dl>
+    <dl>
+      <dt>好看的图片</dt>
+      <dd>
+        <img src="images/01.jpg">
+      </dd>
+    </dl>
+    <dl>
+      <dt>好看的图片</dt>
+      <dd>
+        <img src="images/02.jpg">
+      </dd>
+    </dl>
+    <dl>
+      <dt>好看的图片</dt>
+      <dd>
+        <img src="images/03.jpg">
+      </dd>
+    </dl>
+    <hr/>
+    <!--4、表格,table实现-->
+    <h1>最后一篇文章一级标题</h1>
+    <h2>文章二级标题</h2>
+    <h6>文章作者，发表时间</h6>
+    <!--有序列表-->
+    <ol type="1" start="1">
+      <li>排名1</li>
+      <li>排名2</li>
+      <li>排名3</li>
+    </ol>
+    <p>下面是一个表格</p>
+    <table class="exer04">
+      <thead>
+        <tr>
+          <td class="col1">表头</td>
+          <td class="col1">表头</td>
+          <td class="col2">表头</td>
+        </tr>
+      <thead>
+      <tbody>
+        <tr>
+          <td>表内容单元格</td>
+          <td>表内容单元格</td>
+          <td>
+            <a href="#">操作</a>
+          </td>
+        </tr>
+        <tr>
+          <td>表内容单元格</td>
+          <td>表内容单元格</td>
+          <td>
+            <a href="#">操作</a>
+          </td>
+        </tr>
+        <tr>
+          <td>表内容单元格</td>
+          <td>表内容单元格</td>
+          <td>
+            <a href="#">操作</a>
+          </td>
+        </tr>
+        <tr>
+          <td>表内容单元格</td>
+          <td>表内容单元格</td>
+          <td>
+            <a href="#">操作</a>
+          </td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td>总计</td>
+          <td colspan="2">1000</td>
+        </tr>
+      </tfoot>
+    </table>
+    <hr/>
+    <!--4、表格div+css实现-->
+    <h1>用Div+css实现</h1>
+    <div class="table">
+      <ul>
+        <li class="col1">表头</li>
+        <li class="col1">表头</li>
+        <li class="col2">表头</li>
+        <li>表内容单元格</li>
+        <li>表内容单元格</li>
+        <li class="col3">
+          <a href="#">操作</a>
+        </li>
+        <li>表内容单元格</li>
+        <li>表内容单元格</li>
+        <li class="col3">
+          <a href="#">操作</a>
+        </li>
+        <li>表内容单元格</li>
+        <li>表内容单元格</li>
+        <li class="col3">
+          <a href="#">操作</a>
+        </li>
+        <li>表内容单元格</li>
+        <li>表内容单元格</li>
+        <li class="col3">
+          <a href="#">操作</a>
+        </li>
+        <li class="col4">总计</li>
+        <li class="col5">1000</li>
+      </ul>
+    </div>
+    <hr/>
+    <!--5、表单，div+css改的比较乱，又先用table了........-->
+    <section>
+      <aside>
+        <h4>| 这里以后是一个侧栏，这是侧栏的标题</h4>
+        <form action="http://www.123.com" method="post" enctype="multipart/form-data">
+          <table class="form">
+            <tr>
+              <td class="form_left">
+                <label for="mail">请输入邮箱地址</label>
+              </td>
+              <td>
+                <input name="email" id="mail" placeholder="这是一个文本输入框"/>
+              </td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>邮箱地址请按要求格式输入</td>
+            </tr>
+            <tr>
+              <td class="form_left">
+                <label for="uPwd">请输入密码</label>
+              </td>
+              <td>
+                <input type="password" id="uPwd" name="uPwd" maxlength="16"/>
+              </td>
+            </tr>
+            <tr>
+              <td class="form_left" name="uPwd">
+                <label for="uPwd2">请重复输入密码</label>
+              </td>
+              <td>
+                <input type="password" id="uPwd2" maxlength="16"/>
+              </td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>密码为6-16位英文数字</td>
+            </tr>
+            <tr>
+              <td class="form_left">性别</td>
+              <td>
+                <input type="radio" name="sex" value="male" id="nan" checked/><label  for="nan">男</label>
+                <input type="radio" name="sex" value="female"  id="nv"/><label for="nv">女</label>
+              </td>
+            </tr>
+            <tr>
+              <td class="form_left">城市</td>
+              <td>
+                <select name="city" size="1">
+                  <option value="BJ" checked>北京</option>
+                  <option value="SH" checked>上海</option>
+                  <option value="TJ" checked>天津</option>
+                  <option value="CQ" checked>重庆</option>
+                </select>
+              </td>
+            </tr>
+            <tr>
+              <td class="form_left">爱好</td>
+              <td>
+                <input type="checkbox" name="hobby" value="sport" id="sport"/><label for="sport">运动</label>
+                <input type="checkbox" name="hobby" value="art" id="art"/><label for="art">艺术</label>
+                <input type="checkbox" name="hobby" value="science" id="sci"/><label for="sci">科学</label>
+              </td>
+            </tr>
+            <tr>
+              <td class="form_left">个人描述</td>
+              <td>
+                <textarea name="useinfo" cols="50" rows="5">这是一个多行输入框，输入您的个人描述</textarea>
+              </td>
+            </tr>
+            <tr>
+              <td id="submit" colspan="2">
+                <input type="submit" value="确认提交"/>
+              </td>
+            </tr>
+          </table>    
+        </form>
+      </aside>
+    </section>
+  </body>
+</html>

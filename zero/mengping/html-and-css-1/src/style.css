@@ -1,0 +1,110 @@
+@charset "utf-8";
+body{
+  font:12px "microsoft yahei","arial";
+  color:#000;
+}
+h2,h6{
+  font-weight:normal;
+}
+ul li{
+  list-style:none;
+}
+/**************************************练习3**************************************/
+dl{
+  border:1px solid #ddd;
+  width:220px;
+  height:180px;
+  text-align:center;
+  padding:10px;
+}
+dl dt{
+  padding-bottom:10px;
+}
+dl dd{
+  margin:0px;
+}
+dl dd img{
+  width:200px;
+  height:150px;
+}
+/**********************************练习4************************************/
+table.exer04{
+  border-spacing:0px;
+}
+table.exer04 td{
+  border:1px solid #ddd;
+}
+table.exer04 thead td{
+  color:#fff;
+  background:#000;
+}
+table.exer04 thead td.col1{
+  width:400px;
+}
+table.exer04 thead td.col2{
+  width:200px;
+}
+table.exer04 tfoot td{
+  font-weight:700;
+  background:#ccc;
+}
+/**********************************练习4************************************/
+div.table{
+  overflow:hidden;
+}
+div.table ul{
+  width:1020px;
+  padding:0px;
+}
+div.table li{
+  float:left;
+  width:400px;
+  border-bottom:1px solid #ddd;
+  border-left:1px solid #ddd;
+  height:20px;
+  line-height:20px;
+}
+div.table li.col1,div.table li.col2{
+  color:#fff;
+  background-color:#000;
+  border-top:1px solid #ddd;
+}
+div.table li.col2{
+  width:200px;
+  border-right:1px solid #ddd;
+}
+div.table li.col3{
+  width:200px;
+  border-right:1px solid #ddd;
+}
+div.table li.col4,div.table li.col5{
+  font-weight:700;
+  background:#ccc;
+}
+div.table li.col5{
+  width:601px;
+  border-right:1px solid #ddd;
+}
+/*******************************��ϰ5***********************************/
+section{
+  overflow:hidden;
+  width:100%;
+}
+table.form{
+  width:100%;
+}
+table.form td.form_left{
+  width:500px;
+  text-align:right;
+  padding-right:10px;
+  vertical-align:top;
+}
+#submit input{
+  width:100%;
+  background-color:#3453D2;
+  border:none;
+  padding:5px 0;
+  color:#fff;
+  font-weight:700;
+  font-size:14px;
+}
