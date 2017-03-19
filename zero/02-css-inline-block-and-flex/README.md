@@ -15,3 +15,4 @@
   * [应不应该使用inline-block代替float](https://www.w3cplus.com/css/inline-blocks.html)
   * [如何解决inline-block元素的空白间距](https://www.w3cplus.com/css/fighting-the-space-between-inline-block-elements)
   * [inline-block 布局写法示例](http://www.jianshu.com/p/eaa1578eddb2)
+  * [Kite](http://hiloki.github.io/kitecss/) 是一个基于 inline-block 的框架。读那源码可以学习到很多用inline-block布局时，为兼容某些浏览器需要写的兼容代码。
