@@ -1,21 +1,14 @@
 # 孟萍
-[作业代码](http://pan.baidu.com/s/1qXTCeNM)
-
-上次作业根据我的建议修改的看过了，很棒。
-
-## 用 flex 布局  
-实现了作业的要求。
-
-建议  
-* 对flex的一些属性加了浏览器私有属性前缀。这是为了兼容一些老的浏览器。了解更多，见 http://www.jianshu.com/p/09285b04111a  
-* 每次作业的内容放在一个文件夹里。文件夹名字如 01-html-css， 02-css-inline-block-and-flex。作业2下有个习题，所以在 02-css-inline-block-and-flex 下两个目录，分别是 use-flex 和 use-inline-block。
-* 文件名字的优化。demo.html，style.css 是一种约定俗成的名称。
-* 作业中不要包含备份文件。
+[作业源码](https://github.com/mmper/front-end-demos/tree/master/03-position-and-media%20queries)
 
 
-## 用 inline-block 布局 
-除了未实现“多个元素在某一行，某个元素占据剩余部分”（目前是写死的宽度），别的都实现了。同时也消除了空格占的空间，很棒。
+作业2:
+回到底部按钮的 name 值改成 top 更合适。
 
-建议  
-* ly 上不需要设置 width: 100% 。块级元素的默认宽度就是 100%，行内元素即使设置 100% 也不会生效。
+作业3:
+代码并不会适配移动端浏览页面。在 header 加下面的Viewport的代码可以解决这个问题
+```
+<meta name="viewport" content="maximum-scale=1,width=device-width,initial-scale=1,user-scalable=0">
+```
 
+具体见[如何做好移动端的响应式设计：Viewport控制](https://segmentfault.com/a/1190000002685485)

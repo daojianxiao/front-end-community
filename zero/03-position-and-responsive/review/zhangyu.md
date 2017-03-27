@@ -1,13 +1,20 @@
 # 张玉
-[作业代码](http://pan.baidu.com/s/1bprdid5@Joel )
+[作业源码](https://github.com/Cindy883008/03-position-and-responsive)
 
-## 用 flex 布局  
-实现了作业的要求。
+作业1:
+右下角的圆用 right 和 bottom 来控制，更灵活。
 
-建议  
-* 对flex的一些属性加了浏览器私有属性前缀。这是为了兼容一些老的浏览器。了解更多，见 http://www.jianshu.com/p/09285b04111a  
-* 删掉多余的样式。.ly--xx 不需要写 display:flex，布局的父元素都会加类名 ly。在 .ly 中定义过 display:flex 了。
-* 文件名字的优化。flex.css 改成 style.css; flex.html 改成 demo.html。 demo.html，style.css 是一种约定俗成的名称。  
-* flex.css 代码的缩进不统一，有缩进2格和4格的；代码中的缩进要么都有空格，要么用tab，不要混用。
+作业2:
+回到底部按钮的 name 值改成 top 更合适。
+
+作业3:
+代码并不会适配移动端浏览页面。在 header 加下面的Viewport的代码可以解决这个问题
+```
+<meta name="viewport" content="maximum-scale=1,width=device-width,initial-scale=1,user-scalable=0">
+```
+
+具体见[如何做好移动端的响应式设计：Viewport控制](https://segmentfault.com/a/1190000002685485)
+
+以后交作业,可以和孟萍一样,放在一个库里,如 https://github.com/mmper/front-end-demos
 
 
