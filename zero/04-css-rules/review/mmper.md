@@ -2,7 +2,7 @@
 1. 作业1 [源码](https://github.com/mmper/front-end-demos/blob/master/04-css-rules/demo.html)
 1. 作业2 [文章:背景定位&背景尺寸](http://www.jianshu.com/p/9452493b856e)
 
-作业1:建议
+作业1:建议  
 1 选择合适的标签。如`<p>ife.baidu.com</p>` 应该用标签 h1。About 和 TECHNOLOGE 不应该用 h1 标签。 `<a>前</a>` 这标签用的也不对。  
 2 将布局的 CSS 写成一个文件，方便以后复用。如，头部的HTML这么写  
 ```
@@ -52,5 +52,8 @@ CSS 这么写
 5 选择器尽量不要超过2级，不要出现这种 `.bottom-rt div>p`， `.bottom-rt div>p span`这种。解决方式还是通过类名。
 
 总而言之，功能是实现了，写了很多脆弱的选择器，需要加强。我晚点写篇文章介绍下如何写选择器。
+
+作业2:  
+归纳整理的很赞~
 
 
