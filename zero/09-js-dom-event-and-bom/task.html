@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>任务</title>
+  <style>
+    .block{
+      margin-top: 30px;
+      width: 500px;
+      height: 500px;
+      background-color: #f00;
+      font: #fff;
+    }
+
+    .block__inner{
+      margin-top: 50px;
+      height: 200px;
+      background-color: #0f0;
+    }
+
+  </style>
+</head>
+<body>
+  <ul>
+    <li>1 <button>点我删除这个li</button></li>
+    <li>2 <button>点我删除这个li</button></li>
+  </ul>
+  <button>点我给ul里新增个li。li的文字内容为上个li的值+1 和删除按钮</button>
+
+  <div class="block">
+    鼠标移进入我时，在控制台输出"移入block"，移出时输”移出block“
+    <div class="block__inner">鼠标移进入我时，在控制台输出"移入block-inner"，移出时输”移出block-inner“</div>
+  </div>
+</body>
+</html>
